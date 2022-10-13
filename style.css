@@ -277,8 +277,6 @@ img {
   width: 100%;
 }
 
-
-
 /*-----header-----*/
 
 #main-header {
@@ -315,8 +313,6 @@ img {
   margin-top: 50px;
 }
 
-
-
 /*-----main-----*/
 
 #content {
@@ -337,8 +333,6 @@ main {
   color: #13222c;
   font-family: sans-serif;
 }
-
-
 
 /*-----author container-----*/
 
@@ -378,8 +372,6 @@ main {
   text-decoration: underline;
 }
 
-
-
 /*-----views-----*/
 
 #views {
@@ -396,8 +388,6 @@ main {
   font-size: 1rem;
   font-family: sans-serif;
 }
-
-
 
 /*-----blog content-----*/
 
@@ -424,8 +414,6 @@ main {
 #blog-content .sources a:hover {
   color: #000000;
 }
-
-
 
 /*-----aside-----*/
 
@@ -513,7 +501,6 @@ button[type="submit"]:hover {
 }
 
 #search form {
-  
   margin-top: 30px;
   margin-bottom: 70px;
 }
@@ -527,9 +514,8 @@ button[type="submit"]:hover {
 }
 
 #search img {
-
   width: 18px;
-  vertical-align: middle
+  vertical-align: middle;
 }
 
 #search button {
@@ -550,78 +536,65 @@ button[type="submit"]:hover {
   font-size: 1rem;
 }
 
-#social{
-  
+#social {
   width: 2%;
   height: 40%;
-  margin-left: -60px ;
-  margin-top: -3000px;
+  margin-left: -60px;
+  margin-top: -7850px;
   position: fixed;
-  
-
-  }
-
-#facebook img{
-  background-color:  #3b5998;
 }
 
-#facebook .social-img:hover{
+#facebook img {
+  background-color: #3b5998;
+}
+
+#facebook .social-img:hover {
   background-color: #2d4373;
 }
 
-#linkedin img{
-  background-color:  #0077b5;
+#linkedin img {
+  background-color: #0077b5;
 }
 
-#linkedin .social-img:hover{
-  background-color:  #00121c;
+#linkedin .social-img:hover {
+  background-color: #00121c;
 }
 
-#twitter img{
-  background-color:  #83c3f3;
+#twitter img {
+  background-color: #83c3f3;
 }
 
-#twitter .social-img:hover{
-  background-color:   #55acee;
+#twitter .social-img:hover {
+  background-color: #55acee;
 }
 
-#gmail img{
-  background-color:  #dd4b39;
+#gmail img {
+  background-color: #dd4b39;
 }
 
-#gmail .social-img:hover{
-  background-color:  #c23321;
+#gmail .social-img:hover {
+  background-color: #c23321;
 }
 
-#whatsapp img{
-  background-color:  #6ba92f;
+#whatsapp img {
+  background-color: #6ba92f;
 }
 
-#whatsapp .social-img:hover{
-  background-color:  #528124;
+#whatsapp .social-img:hover {
+  background-color: #528124;
 }
 
-#mail img{
-  background-color:   #ed4926 ;
+#mail img {
+  background-color: #ed4926;
 }
 
-#mail .social-img:hover{
-  background-color:  #cf3311;
+#mail .social-img:hover {
+  background-color: #cf3311;
 }
-  
-  
-  
-  
-  
 
-
-#social img{
+#social img {
   height: 25px;
-  
+
   padding: 11px;
   margin: -2px;
-  
-  
-
-
 }
